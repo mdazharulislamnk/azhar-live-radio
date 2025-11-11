@@ -32,27 +32,23 @@ The project is structured for clear separation of concerns between the real-time
 The project is connected to the Convex deployment named `cool-capybara-114`.
 
 ### 1. Installation
-
-```bash
-npm install
+-npm install
 
 ## 2. Running Locally
 
-Use the combined `dev` script to start the Convex backend services and the React frontend simultaneously:
-
-```bash
+-Use the combined `dev` script to start the Convex backend services and the React frontend simultaneously:
 npm run dev
 
-The frontend will be accessible via a local URL (typically http://localhost:5173).
+-The frontend will be accessible via a local URL (typically http://localhost:5173).
 
 ## 🔒 Authentication
 
-This application uses the Convex Auth system. It is currently configured for robust sign-in methods (as evidenced by the auth dependencies).
+-This application uses the Convex Auth system. It is currently configured for robust sign-in methods (as evidenced by the auth dependencies).
 
 
 ## 📚 Further Resources
 
-For deep dives into the platform:
+-For deep dives into the platform:
 
-* **Convex Documentation:** [https://docs.convex.dev/](https://docs.convex.dev/)
-* **Convex Auth Documentation:** [https://auth.convex.dev/](https://auth.convex.dev/)
+-* **Convex Documentation:** [https://docs.convex.dev/](https://docs.convex.dev/)
+-* **Convex Auth Documentation:** [https://auth.convex.dev/](https://auth.convex.dev/)
